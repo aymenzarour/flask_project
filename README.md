@@ -3,13 +3,13 @@ This project demonstrates a simple Flask web application that includes an input 
 
 ## Project Structure
 .
-├── app.py
+├── app.py.
 
-├── Dockerfile
+├── Dockerfile.
 
-   └── templates
+   └── templates.
    
-└── input_form.html
+└── input_form.html.
 
 
 - **`app.py`**: The main Python script containing the Flask application. It defines two routes - the root route (`/`) with a welcome message and an input form route (`/input`) to handle user input.
