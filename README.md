@@ -4,12 +4,6 @@ This project demonstrates a simple Flask web application that includes an input 
 ## Project Structure
 .
 
-├── app.py  .
-├── Dockerfile  .
-└── templates  .
-   └── input_form.html  .
-
-
 - **`app.py`**: The main Python script containing the Flask application. It defines two routes - the root route (`/`) with a welcome message and an input form route (`/input`) to handle user input.
 
 - **`Dockerfile`**: The Docker configuration file specifying the base image, working directory, and necessary steps to build the Docker image. It includes the installation of Flask and exposes port 5000 for the application.
