@@ -2,6 +2,7 @@
 This project demonstrates a simple Flask web application that includes an input form. Users can enter text through the form, which is then displayed on the page. The project is designed to be containerized using Docker.
 
 ## Project Structure
+.
 
 ├── app.py  .
 ├── Dockerfile  .
