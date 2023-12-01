@@ -4,8 +4,11 @@ This project demonstrates a simple Flask web application that includes an input 
 ## Project Structure
 .
 ├── app.py
+
 ├── Dockerfile
-└── templates
+
+   └── templates
+   
 └── input_form.html
 
 
